@@ -46,11 +46,6 @@ It is not intended to replace a full CRM, nor to support multiple users or teams
 - Tracks contract status and basic activity
 - Helps identify which agents are active or inactive
 
-### Contract Distribution
-- Sends signed contracts via email
-- Records when contracts are sent
-- Triggers simple follow-up reminders
-
 ### Client Tracking
 - Records client details and interest level
 - Links clients to the responsible sub-agent
@@ -74,16 +69,6 @@ It is not intended to replace a full CRM, nor to support multiple users or teams
 - Use tools that are easy to modify and maintain
 - Store data in a structured, auditable format
 - Avoid unnecessary abstractions
-
----
-
-## Scope and Limitations
-- Designed for a single sales operator
-- Uses spreadsheets as the primary data store
-- Automations are batch-based, not real-time
-- Messaging is limited to email (with WhatsApp handled manually)
-
-These limitations are intentional and aligned with the project’s goals.
 
 ---
 
